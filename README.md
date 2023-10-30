@@ -6,9 +6,13 @@ Puede que el día de mañana haya más proyectos que lo que ves...
 
 ## ¿Quieres saber algo más acerca de mi?
 
-[Esta web](https://javiervallejo.me/) la uso a modo de CV.
+[Esta web](https://javiervallejo.me/) la uso a modo de CV actualizado.
 
-[Aquí](https://javiervallejo.com/) escribo sobre WordPress.
+[Aquí](https://javiervallejo.com/) escribo sobre WordPress, aunque cada vez menos dado que quiero reenfocar contenidos hacia JavaScript.
+
+Si quieres saber si tengo algún proyecto en React por ahí operativo, tengo un par de webs sencillas:
+- [Esta herramienta](https://laredireccion301.com/) que genera redirecciones 301 masivas.
+- Un proyecto [contador de palabras] (https://cuentapalabras.com/).
 
 
 <!--
