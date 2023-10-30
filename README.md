@@ -12,7 +12,7 @@ Puede que el día de mañana haya más proyectos que lo que ves...
 
 Si quieres saber si tengo algún proyecto en React por ahí operativo, tengo un par de webs sencillas:
 - [Esta herramienta](https://laredireccion301.com/) que genera redirecciones 301 masivas.
-- Un proyecto [contador de palabras] (https://cuentapalabras.com/).
+- Un proyecto [contador de palabras](https://cuentapalabras.com/).
 
 
 <!--
