@@ -10,9 +10,10 @@ Puede que el día de mañana haya más proyectos que lo que ves...
 
 [Aquí](https://javiervallejo.com/) escribo sobre WordPress, aunque cada vez menos dado que quiero reenfocar contenidos hacia JavaScript.
 
-Si quieres saber si tengo algún proyecto en React por ahí operativo, tengo un par de webs sencillas:
+### Proyectos
+Tengo un par de webs sencillas hechas con React:
 - [Esta herramienta](https://laredireccion301.com/) que genera redirecciones 301 masivas.
-- Un proyecto [contador de palabras](https://cuentapalabras.com/).
+- Un proyecto [contador de palabras](https://cuentapalabras.com/) que lo hice para cacharrear con React.
 
 
 <!--
